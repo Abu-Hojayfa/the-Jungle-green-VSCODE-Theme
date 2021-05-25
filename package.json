@@ -2,17 +2,17 @@
     "name": "shadow",
     "displayName": "The Jungle Green",
     "description": "It is a dark-greenish theme, gives the feeling of a Jungle environment",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "TheJungleGreen",
-    "repository":{
-      "type": "git",
-      "url": "https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
     },
     "keywords": [
-      "theme",
-      "darak green theme",
-      "green theme",
-      "Jungle"
+        "theme",
+        "darak green theme",
+        "green theme",
+        "Jungle"
     ],
     "engines": {
         "vscode": "^1.56.0"
