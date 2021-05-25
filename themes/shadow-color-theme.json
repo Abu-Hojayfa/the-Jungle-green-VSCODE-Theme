@@ -1,9 +1,9 @@
 {
   "name": "The Jungle Green",
-  "publisher": "TheJungleGreen",
+  "publisher": "hojayfa",
   "repository":{
     "type": "git",
-    "url": "git remote add origin https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
+    "url": "https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
   },
   "keywords": [
     "theme",
