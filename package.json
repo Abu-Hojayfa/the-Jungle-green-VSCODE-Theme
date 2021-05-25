@@ -3,6 +3,17 @@
     "displayName": "ShaDow",
     "description": "It is a dark theme, gives the feeling of a hacking environment",
     "version": "0.0.1",
+    "publisher": "TheJungleGreen",
+    "repository":{
+      "type": "git",
+      "url": "https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
+    },
+    "keywords": [
+      "theme",
+      "darak green theme",
+      "green theme",
+      "Jungle"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
