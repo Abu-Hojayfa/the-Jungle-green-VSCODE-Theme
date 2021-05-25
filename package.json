@@ -1,0 +1,21 @@
+{
+    "name": "shadow",
+    "displayName": "ShaDow",
+    "description": "It is a dark theme, gives the feeling of a hacking environment",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "shadow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shadow-color-theme.json"
+            }
+        ]
+    }
+}
