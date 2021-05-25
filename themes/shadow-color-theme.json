@@ -1,6 +1,10 @@
 {
   "name": "The Jungle Green",
-  "$schema": "vscode://schemas/color-theme",
+  "publisher": "TheJungleGreen",
+  "repository":{
+    "type": "git",
+    "url": "git remote add origin https://github.com/Abu-Hojayfa/the-Jungle-green-VSCODE-Theme.git"
+  },
   "keywords": [
     "theme",
     "darak green theme",
