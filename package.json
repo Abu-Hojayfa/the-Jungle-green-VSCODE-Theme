@@ -12,7 +12,8 @@
         "theme",
         "darak green theme",
         "green theme",
-        "Jungle"
+        "Jungle",
+        "Jungle Green"
     ],
     "engines": {
         "vscode": "^1.56.0"
