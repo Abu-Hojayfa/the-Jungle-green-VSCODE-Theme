@@ -1,7 +1,7 @@
 # The Jungle Green
 ## This is a Theme for your VS Code
-### For more information
-* [Git Hub](http://code.visualstudio.com/docs/languages/markdown)
+### Add to your VS Code
+* [Git Hub](https://cutt.ly/4nrzBZx)
 
 
 **Enjoy!**
